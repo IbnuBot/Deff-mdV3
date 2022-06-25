@@ -8,7 +8,7 @@ const fs = require("fs")
 const chalk = require("chalk")
 
 // Other
-global.thum = fs.readFileSync("./worker/media/image/thumb.jpg")
+global.thum = fs.readFileSync("./worker/media/image/SAVE_20220618_164334.jpg")
 global.log0 = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.err4r = fs.readFileSync("./worker/media/image/thumb.jpg")
 global.owner = ['62895338690940','6289501060783','62895338690940']
